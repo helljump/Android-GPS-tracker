@@ -1,0 +1,18 @@
+<resources>
+    <string name="login_title">Auth</string>
+    <string name="main_title">AuthTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_signout">Sign out</string>
+    <string name="gps_logger">GPS Logger</string>
+    <string name="loggingnotify_text">Logservice running</string>
+    <string name="navigation_drawer_open">Drawer open</string>
+    <string name="navigation_drawer_close">Drawer closed</string>
+
+    <string-array name="menu_items">
+        <item>Vacuum DB</item>
+        <item>Second item</item>
+        <item>Third item</item>
+    </string-array>
+
+</resources>
